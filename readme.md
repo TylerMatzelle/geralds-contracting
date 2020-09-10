@@ -4,7 +4,6 @@
 
 This application will take the width and length of a house and return the number of studs required to frame the walls inside the 4x4 beams.
 ___
-
 ## How to use this application
 To run a calculation, pass in two parameters:
 
