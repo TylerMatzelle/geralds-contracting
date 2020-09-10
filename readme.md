@@ -36,7 +36,7 @@ Gerald has decided to commission you to build him a simple application to calcul
 
 * Gerald only buys 8’ 2x4’s
 
-### Example
+ Example
 ___
 
 * Each wall is the same size in this case
